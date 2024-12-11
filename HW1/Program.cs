@@ -10,7 +10,7 @@ namespace lambaitapoop
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Lê Trí Tùng\t12423037\t12423TN\thttps://github.com/ltt230205\tletritung2302@gmail.com");
+            Console.WriteLine("Le Tri Tung\t12423037\t12423TN\thttps://github.com/ltt230205\tletritung2302@gmail.com");
         }
     }
 }
